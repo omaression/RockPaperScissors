@@ -1,5 +1,5 @@
 // variable that stores the player choice input:
-let playerChoice = prompt("Choose (Rock - Paper - Scissors)");
+let playerChoice = prompt("Choose (Rock - Paper - Scissors)").trim().toLowerCase();
 
 // game counter:
 let computerResult = 0,
