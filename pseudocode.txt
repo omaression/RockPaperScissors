@@ -1,0 +1,4 @@
+PlayRound will take humanChoice and computerChoice
+It will determine who wins based on conditions
+It will increment the score of the winner by 1
+It will display a msg in console
